@@ -1,0 +1,15 @@
+{
+  "name": "rollup-renamed-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^0.47.2"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+
+  }
+}

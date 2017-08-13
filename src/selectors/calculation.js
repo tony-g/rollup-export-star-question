@@ -1,0 +1,1 @@
+export const calculation = arg => arg
